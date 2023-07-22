@@ -1,5 +1,6 @@
+#app.py
 def addition(a,b,c):
 return(a+b+c)
 
-def multiplication(a,b):
+    def multiplication(a,b):
 return(a*b)
